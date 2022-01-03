@@ -5,7 +5,7 @@
 Dis6 is a bot created to keep your server safe and organized.
 
 ## [Dis6 - Wiki](https://github.com/OrgDis6/Dis6/wiki)
-📜 [Commands](https://github.com/OrgDis6/Dis6/wiki/commands)
+📜 [Commands](https://github.com/OrgDis6/Dis6/wiki/general-commands)
 
 
 ## How do I report a bug or suggest a command?
